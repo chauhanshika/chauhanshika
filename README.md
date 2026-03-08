@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshika Chauhan</h1>
-
-
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a8453d45-b582-4959-9dde-c5771f0dd65f" width="180">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Learner;Python+Developer&center=true&width=500&height=50">
+</p>
+
+<img src="https://github.com/user-attachments/assets/a8453d45-b582-4959-9dde-c5771f0dd65f" width="220">
 </p>
 
 ---
@@ -11,7 +12,7 @@
 
 - 🎓 B.Tech CSE (Data Science) student  
 - 📊 Interested in **Data Analysis and Machine Learning**  
-- 🌱 Currently learning **Pandas, Machine Learning, and Data Structures**  
+- 🌱 Currently learning **Python Libraries, Machine Learning, and Data Structures**  
 - 🤝 Open to collaborating on **Data Science projects**
 
 ---
@@ -20,7 +21,7 @@
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,github,vscode,docker"/>
 </p>
 
 **Data & ML Libraries**
