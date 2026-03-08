@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika Chauhan</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Learner;Python+Developer&center=true&width=500&height=50">
-</p>
 
 <p align="center">
-<img src="YOUR-PHOTO-LINK" width="180" style="border-radius:50%">
+<img src="![my photo](https://github.com/user-attachments/assets/a8453d45-b582-4959-9dde-c5771f0dd65f)" width="180" style="border-radius:50%">
 </p>
 
 ---
@@ -36,7 +33,7 @@
 
 ### 📫 Contact
 
-📧 your-email@example.com  
+📧 your-chauhanshikaa1@gmail.com
 
 ---
 
