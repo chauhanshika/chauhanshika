@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika Chauhan</h1>
 
-<h3 align="center">
-Data Analysis • Data Science • Machine Learning
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Learner;Python+Developer&center=true&width=500&height=50">
+</p>
 
 <p align="center">
 <img src="YOUR-PHOTO-LINK" width="180" style="border-radius:50%">
@@ -31,18 +31,6 @@ Data Analysis • Data Science • Machine Learning
 - NumPy  
 - Scikit-learn  
 - Matplotlib
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-</p>
 
 ---
 
