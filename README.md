@@ -5,7 +5,7 @@ Data Science • Data Analysis • Machine Learning
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8453d45-b582-4959-9dde-c5771f0dd65f" width="220">
+  <img src="https://github.com/user-attachments/assets/a8453d45-b582-4959-9dde-c5771f0dd65f" width="400">
 </p>
 ---
 
