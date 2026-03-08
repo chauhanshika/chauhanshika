@@ -35,6 +35,12 @@ Data Science • Data Analysis • Machine Learning
 
 ---
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chauhanshika&show_icons=true&theme=github_dark"/>
+</p>
+
+---
+
 ### 📫 Contact
 
 *Gmail* : chauhanshikaa1@gmail.com
