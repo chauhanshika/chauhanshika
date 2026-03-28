@@ -45,10 +45,9 @@ B.Tech CSE (Data Science) • Data Science • Machine Learning
 
 ## Contact
 
-📧 **Email:** chauhanshikaa1@gmail.com  
+📧 **Email:**  chauhanshikaa1@gmail.com  
 
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/chauhanshika
+🔗 **LinkedIn:**  https://www.linkedin.com/in/chauhanshika
 
 ---
 
