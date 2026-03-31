@@ -54,27 +54,29 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 
 ### 🗄️ SQL Specialization Track (UC Davis)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-data-science-specialization-ucdavis" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-capstone-project-ucdavis" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-data-science-ucdavis" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-problem-solving-ucdavis" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-data-science-specialization-ucdavis.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-capstone-project-ucdavis.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-data-science-ucdavis.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-problem-solving-ucdavis.png" width="250"/>
 </p>
 
 ---
 
 ### 📊 Data Analytics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/google-data-analytics-foundations" width="300"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/google-data-analytics-foundations.png" width="300"/>
 </p>
 
 ---
 
 ### 🧠 Python & NumPy
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/python-beginners-simplilearn" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/numpy-introduction-simplilearn" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/numpy-practice-codechef" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/python-beginners-simplilearn.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-introduction-simplilearn.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-practice-codechef.png" width="250"/>
 </p>
+
+---
 
 🐍 Contributions
 
