@@ -53,11 +53,15 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 ## 📜 Certifications
 
 ### 🗄️ SQL Specialization Track (UC Davis)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-data-science-specialization-ucdavis.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-capstone-project-ucdavis.png" width="250"/>
   <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-data-science-ucdavis.png" width="250"/>
   <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-problem-solving-ucdavis.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-capstone-project-ucdavis.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/sql-data-science-specialization-ucdavis.png" width="250"/>
 </p>
 
 ---
@@ -71,9 +75,9 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 
 ### 🧠 Python & NumPy
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/python-beginners-simplilearn.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-introduction-simplilearn.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-practice-codechef.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/python-beginners-simplilearn.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-introduction-simplilearn.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-practice-codechef.png" width="300"/>
 </p>
 
 ---
