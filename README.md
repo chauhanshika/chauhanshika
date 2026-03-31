@@ -52,13 +52,29 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 
 ## 📜 Certifications
 
+### 🗄️ SQL Specialization Track (UC Davis)
 <p align="center">
-  <img src="YOUR_CERT_LINK_1" width="300"/>
-  <img src="YOUR_CERT_LINK_2" width="300"/>
-  <img src="YOUR_CERT_LINK_3" width="300"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-data-science-specialization-ucdavis" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-capstone-project-ucdavis" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-data-science-ucdavis" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/sql-problem-solving-ucdavis" width="250"/>
 </p>
 
 ---
+
+### 📊 Data Analytics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/google-data-analytics-foundations" width="300"/>
+</p>
+
+---
+
+### 🧠 Python & NumPy
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/python-beginners-simplilearn" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/numpy-introduction-simplilearn" width="250"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/assets/certificates/numpy-practice-codechef" width="250"/>
+</p>
 
 🐍 Contributions
 
