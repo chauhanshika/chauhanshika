@@ -1,7 +1,7 @@
 <h1 align="center">Hey!, I'm Anshika Chauhan</h1>
 
 <p align="center">
-B.Tech CSE (Data Science) • Data Science • Machine Learning
+B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 </p>
 
 <p align="center">
@@ -12,26 +12,51 @@ B.Tech CSE (Data Science) • Data Science • Machine Learning
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (Data Science) student  
-- 📊 Interested in **Data Science and Machine Learning**  
-- 🌱 Currently learning **Python Libraries, Machine Learning, and Data Structures**  
-- 🤝 Open to collaborating on **Data Science projects**
+- 🎓 B.Tech CSE (Data Science) @ PSIT Kanpur  
+- 📊 Building skills in **Data Analysis, Machine Learning & Backend Systems**  
+- ⚙️ Hands-on with **Python, SQL, Pandas, NumPy, FastAPI**  
+- 🧠 Focused on solving **real-world data problems with scalable solutions**  
+- 🤝 Open to collaborating on **data-driven and backend projects**
 
 ---
 
-## Skills
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgresql,mongodb,github,vscode,docker"/>
 </p>
 
-### Data & ML Libraries
+### 📊 Data & Analytics
 - Pandas  
 - NumPy  
 
-### Core Concepts
+### ⚙️ Backend & Tools
+- FastAPI  
+- REST APIs  
+- Git & Docker  
+
+### 🧠 Core Strengths
+- Data Cleaning & Analysis  
 - Problem Solving  
-- Machine Learning Basics  
+- Basic Machine Learning  
+
+---
+
+## 📂 What I’m Building
+
+- 📊 Data Analysis Projects (NumPy + Pandas series)  
+- 🛒 E-commerce Customer Behavior Analysis  
+- ⚡ Backend-integrated data systems  
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="YOUR_CERT_LINK_1" width="300"/>
+  <img src="YOUR_CERT_LINK_2" width="300"/>
+  <img src="YOUR_CERT_LINK_3" width="300"/>
+</p>
 
 ---
 
@@ -43,14 +68,14 @@ B.Tech CSE (Data Science) • Data Science • Machine Learning
 
 ---
 
-## Contact
+## 📫 Contact
 
 📧 **Email:**  chauhanshikaa1@gmail.com  
 
-🔗 **LinkedIn:**  https://www.linkedin.com/in/chauhanshika
+🔗 **LinkedIn:**  https://www.linkedin.com/in/chauhanshika  
 
 ---
 
-## 🌟 Fun Fact 🌟
+## 🌟 Background
 
-I started exploring technology from a place with very limited access to tech, and now I'm building my path in **Data Science and AI**.
+Started my journey with limited access to technology, and now building systems in **Data Science & AI** with a focus on real-world impact.
