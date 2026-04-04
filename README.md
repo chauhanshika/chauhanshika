@@ -28,12 +28,12 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
 
 ### 📊 Data & Analytics
 - Pandas  
-- NumPy  
+- NumPy
+- SQL
 
 ### ⚙️ Backend & Tools
-- FastAPI  
-- REST APIs  
-- Git & Docker  
+- FastAPI   
+- Github & Docker  
 
 ### 🧠 Core Strengths
 - Data Cleaning & Analysis  
