@@ -78,6 +78,8 @@ B.Tech CSE (Data Science) • Data Analyst + Backend Enthusiast
   <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/python-beginners-simplilearn.png" width="300"/>
   <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-introduction-simplilearn.png" width="300"/>
   <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/numpy-practice-codechef.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/chauhanshika/chauhanshika/main/practice_numpy_problems_CODECHEF.png" width="300"/>
+  
 </p>
 
 ---
